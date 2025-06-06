@@ -1,5 +1,3 @@
-# laravel-inertia-react-translator
-
 # Laravel Inertia React Translator
 
 The `laravel-inertia-react-translator` package was primarily built, to be paired with the `antonioprimera/laravel-js-localization` package, to provide a seamless localization experience for Laravel Inertia React apps.
