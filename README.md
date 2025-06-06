@@ -52,4 +52,4 @@ const inertiaDictionary = () => customDictionary;
 
 # Related Package
 
-- [antonioprimera/laravel-js-localization](https://github.com/AntonioPrimera/npm.laravel-inertia-vue-translator) - The Laravel package that provides the backend functionality to expose the Laravel localization files to the frontend.
+- [antonioprimera/laravel-js-localization](https://github.com/AntonioPrimera/laravel-js-localization) - The Laravel package that provides the backend functionality to expose the Laravel localization files to the frontend.
