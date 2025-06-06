@@ -1,0 +1,34 @@
+{
+  "name": "laravel-inertia-react-translator",
+  "version": "1.0.0",
+  "description": "A integration for i18n in inertia with laravel for react ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosmin-Ciolacu/laravel-inertia-react-translator.git"
+  },
+  "keywords": [
+    "Laravel",
+    "Inertia",
+    "React",
+    "Typescript",
+    "i18n"
+  ],
+  "author": "Cosmin Ciolacu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosmin-Ciolacu/laravel-inertia-react-translator/issues"
+  },
+  "homepage": "https://github.com/Cosmin-Ciolacu/laravel-inertia-react-translator#readme",
+  "devDependencies": {
+    "@inertiajs/react": "^2.0.11",
+    "@types/react": "^19.1.6",
+    "react": "^19.1.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.2"
+  }
+}
